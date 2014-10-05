@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Nathan\Documents\School\2014-2015\2014 Fall\EE5100\EE-5100.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Nathan\Documents\School\2014-2015\2014 Fall\EE5100\Repositories\altium\components\EE-5100.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -12,14 +12,14 @@ QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Excel
-LibraryDatabasePath=C:\Users\Nathan\Documents\School\2014-2015\2014 Fall\EE5100\EE-5100.xls
+LibraryDatabasePath=C:\Users\Nathan\Documents\School\2014-2015\2014 Fall\EE5100\Repositories\altium\components\EE-5100.xls
 DatabasePathRelative=0
 TopPanelCollapsed=0
 LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=Generic Pads$
+LastFocusedTable=Op Amps$
 [Table1]
 SchemaName=
 TableName=Capacitors$
@@ -44,9 +44,6 @@ TableName=Generic Pads$
 Enabled=True
 UserWhere=0
 UserWhereText=[Footprint Ref] = '{Footprint Ref}'
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Record Number0=103|EE Part Number0=102|Part Description0=107|Value0=58|Pins0=44|Footprint Ref0=92|Library Ref0=77|Manufacturer0=93|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|Supplier Link 10=99|Supplier 20=75|Supplier Part Number 20=142|Supplier Link 20=99
 [Table5]
 SchemaName=
 TableName=Inductors$
@@ -63,8 +60,11 @@ UserWhereText=[Footprint Ref] = '{Footprint Ref}'
 SchemaName=
 TableName=Op Amps$
 Enabled=True
-UserWhere=0
+UserWhere=1
 UserWhereText=[Footprint Ref] = '{Footprint Ref}'
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=EE Part Number0=102|Footprint Ref0=133|Library Ref0=77|Record Number0=103|Part Description0=203|Frequency Range0=112|Value0=110|Voltage0=126|Drive Current0=91|Channels0=71|Package0=65|Manufacturer0=93|Manufacturer Part Number0=160|Datasheet Link0=110|Supplier 10=75|Supplier Part Number 10=142|Supplier Link 10=99|Supplier 20=75|Supplier Part Number 20=142|Supplier Link 20=99
 [Table8]
 SchemaName=
 TableName=Resistors$
@@ -98,32 +98,30 @@ Options=FieldName=Ferrites$.EE Part Number|TableNameOnly=Ferrites$|FieldNameOnly
 [FieldMap10]
 Options=FieldName=Generic Pads$.EE Part Number|TableNameOnly=Generic Pads$|FieldNameOnly=EE Part Number|FieldType=0|ParameterName=EE Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap11]
-Options=FieldName=Inductors$.Footprint Ref|TableNameOnly=Inductors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Generic Pads$.Footprint Ref|TableNameOnly=Generic Pads$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap12]
-Options=FieldName=Inductors$.Library Ref|TableNameOnly=Inductors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Generic Pads$.Library Ref|TableNameOnly=Generic Pads$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap13]
-Options=FieldName=Inductors$.EE Part Number|TableNameOnly=Inductors$|FieldNameOnly=EE Part Number|FieldType=0|ParameterName=EE Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Inductors$.Footprint Ref|TableNameOnly=Inductors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap14]
-Options=FieldName=Misc ICs$.Footprint Ref|TableNameOnly=Misc ICs$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Inductors$.Library Ref|TableNameOnly=Inductors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap15]
-Options=FieldName=Misc ICs$.Library Ref|TableNameOnly=Misc ICs$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Inductors$.EE Part Number|TableNameOnly=Inductors$|FieldNameOnly=EE Part Number|FieldType=0|ParameterName=EE Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap16]
-Options=FieldName=Misc ICs$.EE Part Number|TableNameOnly=Misc ICs$|FieldNameOnly=EE Part Number|FieldType=0|ParameterName=EE Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Misc ICs$.Footprint Ref|TableNameOnly=Misc ICs$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap17]
-Options=FieldName=Op Amps$.EE Part Number|TableNameOnly=Op Amps$|FieldNameOnly=EE Part Number|FieldType=0|ParameterName=EE Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Misc ICs$.Library Ref|TableNameOnly=Misc ICs$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap18]
-Options=FieldName=Op Amps$.Footprint Ref|TableNameOnly=Op Amps$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Misc ICs$.EE Part Number|TableNameOnly=Misc ICs$|FieldNameOnly=EE Part Number|FieldType=0|ParameterName=EE Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap19]
-Options=FieldName=Op Amps$.Library Ref|TableNameOnly=Op Amps$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap20]
 Options=FieldName=Resistors$.Footprint Ref|TableNameOnly=Resistors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap21]
+[FieldMap20]
 Options=FieldName=Resistors$.Library Ref|TableNameOnly=Resistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap22]
+[FieldMap21]
 Options=FieldName=Resistors$.EE Part Number|TableNameOnly=Resistors$|FieldNameOnly=EE Part Number|FieldType=0|ParameterName=EE Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap23]
+[FieldMap22]
 Options=FieldName=Vregs$.Footprint Ref|TableNameOnly=Vregs$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap24]
+[FieldMap23]
 Options=FieldName=Vregs$.Library Ref|TableNameOnly=Vregs$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap25]
+[FieldMap24]
 Options=FieldName=Vregs$.EE Part Number|TableNameOnly=Vregs$|FieldNameOnly=EE Part Number|FieldType=0|ParameterName=EE Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

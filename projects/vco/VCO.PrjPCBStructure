@@ -1,0 +1,5 @@
+Record=SheetSymbol|SourceDocument=vco-brd.SchDoc|Designator=Active/Passive PLL Filters|SchDesignator=Active/Passive PLL Filters|FileName=pll-filters.SchDoc|SymbolType=Normal|RawFileName=pll-filters.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=vco-brd.SchDoc|Designator=OpAmp|SchDesignator=OpAmp|FileName=op amp.SchDoc|SymbolType=Normal|RawFileName=op amp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=vco-brd.SchDoc|Designator=VCO and Buffer|SchDesignator=VCO and Buffer|FileName=vco.SchDoc|SymbolType=Normal|RawFileName=vco.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=vco-brd.SchDoc|Designator=Voltage Regulators|SchDesignator=Voltage Regulators|FileName=supplies.SchDoc|SymbolType=Normal|RawFileName=supplies.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=vco-brd.SchDoc
