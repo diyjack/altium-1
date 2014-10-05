@@ -1,8 +1,21 @@
 [OutputJobFile]
 Version=1.0
+Caption=
+Description=
+VaultGUID=
+ItemGUID=
+ItemHRID=
+RevisionGUID=
+RevisionId=
+VaultHRID=
+AutoItemHRID=
+NextRevId=
+FolderGUID=
+LifeCycleDefinitionGUID=
+RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=VCO.OutJob
 Description=
 TargetOutputMedium=PDF
 VariantName=[No Variations]
@@ -36,7 +49,7 @@ Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=True|ExpandPort=True|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Nathan\Documents\School\2014-2015\2014 Fall\EE5100\Repositories\altium\projects\vco\.PDF
+OutputFilePath2=C:\Users\Nathan\Documents\School\2014-2015\2014 Fall\EE5100\Repositories\altium\projects\vco\VCO.pdf
 ReleaseManaged2=0
 OutputBasePath2=C:\Users\Nathan\Documents\School\2014-2015\2014 Fall\EE5100\Repositories\altium\projects\vco\
 OutputPathMedia2=
@@ -54,7 +67,7 @@ PublishMethod2=0
 ZoomLevel2=50
 FitSCHPrintSizeToDoc2=0
 FitPCBPrintSizeToDoc2=0
-GenerateNetsInfo2=1
+GenerateNetsInfo2=0
 MarkPins2=1
 MarkNetLabels2=1
 MarkPortsId2=1
@@ -63,7 +76,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 OutputFilePath3=
 ReleaseManaged3=1
-OutputBasePath3=
+OutputBasePath3=Project Outputs for VCO
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -76,7 +89,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for VCO
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -113,7 +126,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Nathan\Documents\School\2014-2015\2014 Fall\EE5100\Repositories\altium\projects\vco\.PDF
+RelativeOutputPath2=C:\Users\Nathan\Documents\School\2014-2015\2014 Fall\EE5100\Repositories\altium\projects\vco\VCO.pdf
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
