@@ -1,0 +1,293 @@
+Removed Pin From Net: NetName=NetC29_1 Pin=C29-1
+Removed Pin From Net: NetName=NetC29_2 Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=NetC30_2 Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=NetC30_2 Pin=C31-2
+Removed Pin From Net: NetName=NetC32_1 Pin=C32-1
+Removed Pin From Net: NetName=NetC32_2 Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=C44-1
+Removed Pin From Net: NetName=20V Pin=C44-2
+Removed Pin From Net: NetName=GND Pin=C45-1
+Removed Pin From Net: NetName=NetJ26_1 Pin=J26-1
+Removed Pin From Net: NetName=GND Pin=J26-2
+Removed Pin From Net: NetName=GND Pin=J26-3
+Removed Pin From Net: NetName=GND Pin=J26-4
+Removed Pin From Net: NetName=GND Pin=J26-5
+Removed Pin From Net: NetName=NetJ29_1 Pin=J29-1
+Removed Pin From Net: NetName=GND Pin=J29-2
+Removed Pin From Net: NetName=GND Pin=J29-3
+Removed Pin From Net: NetName=GND Pin=J29-4
+Removed Pin From Net: NetName=GND Pin=J29-5
+Removed Pin From Net: NetName=GND Pin=J50-1
+Removed Pin From Net: NetName=20V Pin=J50-2
+Removed Pin From Net: NetName=NetC46_2 Pin=J55-2
+Removed Pin From Net: NetName=PLL_CHG_PUMP Pin=J56-1
+Removed Pin From Net: NetName=GND Pin=J56-2
+Removed Pin From Net: NetName=GND Pin=J56-3
+Removed Pin From Net: NetName=GND Pin=J56-4
+Removed Pin From Net: NetName=GND Pin=J56-5
+Removed Pin From Net: NetName=GND Pin=J57-2
+Removed Pin From Net: NetName=GND Pin=J58-2
+Removed Pin From Net: NetName=GND Pin=J60-2
+Removed Pin From Net: NetName=NetJ61_1 Pin=J61-1
+Removed Pin From Net: NetName=NetJ61_1 Pin=J62-2
+Removed Pin From Net: NetName=GND Pin=J64-2
+Removed Pin From Net: NetName=GND Pin=J73-2
+Removed Pin From Net: NetName=NetR16_1 Pin=R16-1
+Removed Pin From Net: NetName=NetC29_1 Pin=R16-2
+Removed Pin From Net: NetName=GND Pin=R30-1
+Removed Pin From Net: NetName=LOOP_FILTER_OUT Pin=R30-2
+Removed Pin From Net: NetName=NetC46_2 Pin=R40-1
+Removed Pin From Net: NetName=LOOP_FILTER_OUT Pin=R40-2
+Removed Pin From Net: NetName=PLL_CHG_PUMP Pin=R42-1
+Removed Pin From Net: NetName=OP_OUT Pin=R43-2
+Removed Pin From Net: NetName=GND Pin=U6-0
+Removed Pin From Net: NetName=GND Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U6-2
+Removed Pin From Net: NetName=GND Pin=U6-3
+Removed Pin From Net: NetName=VTUNE Pin=U6-4
+Removed Pin From Net: NetName=GND Pin=U6-5
+Removed Pin From Net: NetName=GND Pin=U6-6
+Removed Pin From Net: NetName=GND Pin=U6-7
+Removed Pin From Net: NetName=GND Pin=U6-8
+Removed Pin From Net: NetName=GND Pin=U6-9
+Removed Pin From Net: NetName=GND Pin=U6-10
+Removed Pin From Net: NetName=GND Pin=U6-11
+Removed Pin From Net: NetName=NetC30_2 Pin=U6-12
+Removed Pin From Net: NetName=GND Pin=U6-13
+Removed Pin From Net: NetName=GND Pin=U6-14
+Removed Pin From Net: NetName=NetR17_1 Pin=U6-15
+Removed Pin From Net: NetName=GND Pin=U6-16
+Removed Pin From Net: NetName=GND Pin=U6-17
+Removed Pin From Net: NetName=GND Pin=U6-18
+Removed Pin From Net: NetName=GND Pin=U6-19
+Removed Pin From Net: NetName=GND Pin=U6-20
+Removed Pin From Net: NetName=GND Pin=U6-21
+Removed Pin From Net: NetName=GND Pin=U6-22
+Removed Pin From Net: NetName=GND Pin=U6-23
+Removed Pin From Net: NetName=GND Pin=U6-24
+Removed Pin From Net: NetName=5V-FILTER Pin=U11-3
+Removed Pin From Net: NetName=FILT-IN Pin=U11-4
+Removed Pin From Net: NetName=NetJ66_2 Pin=U11-6
+Removed Pin From Net: NetName=NetJ66_1 Pin=U11-7
+Removed Pin From Net: NetName=NetJ84_1 Pin=U11-8
+Removed Pin From Net: NetName=NetJ84_2 Pin=U11-9
+Removed Pin From Net: NetName=GND Pin=U11-11
+Removed Pin From Net: NetName=NetJ78_2 Pin=U11-13
+Removed Pin From Net: NetName=NetJ78_1 Pin=U11-14
+Removed Member From Class: ClassName=OpAmp Member=J54
+Change Component DesignItemId : Designator=C45 Old DesignItemId=EE-CAP-00005 New DesignItemId=EE-CAP-00014
+Change Component DesignItemId : Designator=C44 Old DesignItemId=EE-CAP-00013 New DesignItemId=EE-CAP-00014
+Change Component Footprint: Designator=C45 Old Footprint=C0603-0.8MM New Footprint=C0805-1.25MM
+Change Component Footprint: Designator=C44 Old Footprint=C1210-2.5mm New Footprint=C0805-1.25MM
+Change Component Comment : Designator=C45 Old Comment=0.082µF New Comment=0.1µF
+Change Component Comment : Designator=C44 Old Comment=10µF New Comment=0.1µF
+Change Component Designator: OldDesignator=C46 NewDesignator=C47
+Change Component Designator: OldDesignator=C47 NewDesignator=C48
+Change Component Designator: OldDesignator=C48 NewDesignator=C49
+Change Component Designator: OldDesignator=C49 NewDesignator=C50
+Change Component Designator: OldDesignator=C50 NewDesignator=C51
+Change Component Designator: OldDesignator=J51 NewDesignator=J50
+Change Component Designator: OldDesignator=J52 NewDesignator=J51
+Change Component Designator: OldDesignator=J53 NewDesignator=J52
+Change Component Designator: OldDesignator=J54 NewDesignator=J53
+Change Component Designator: OldDesignator=J59 NewDesignator=J58
+Change Component Designator: OldDesignator=J62 NewDesignator=J61
+Change Component Designator: OldDesignator=J66 NewDesignator=J65
+Change Component Designator: OldDesignator=J67 NewDesignator=J66
+Change Component Designator: OldDesignator=J68 NewDesignator=J67
+Change Component Designator: OldDesignator=J70 NewDesignator=J69
+Change Component Designator: OldDesignator=J71 NewDesignator=J70
+Change Component Designator: OldDesignator=J72 NewDesignator=J71
+Change Component Designator: OldDesignator=J74 NewDesignator=J73
+Change Component Designator: OldDesignator=J75 NewDesignator=J74
+Change Component Designator: OldDesignator=J76 NewDesignator=J75
+Change Component Designator: OldDesignator=J77 NewDesignator=J76
+Change Component Designator: OldDesignator=J78 NewDesignator=J77
+Change Component Designator: OldDesignator=J79 NewDesignator=J78
+Change Component Designator: OldDesignator=J80 NewDesignator=J79
+Change Component Designator: OldDesignator=J81 NewDesignator=J80
+Change Component Designator: OldDesignator=J82 NewDesignator=J81
+Change Component Designator: OldDesignator=J83 NewDesignator=J82
+Change Component Designator: OldDesignator=J84 NewDesignator=J83
+Change Component Designator: OldDesignator=J85 NewDesignator=J84
+Change Component Designator: OldDesignator=J86 NewDesignator=J85
+Change Component Designator: OldDesignator=J87 NewDesignator=J86
+Change Component Designator: OldDesignator=J88 NewDesignator=J87
+Change Component Designator: OldDesignator=J89 NewDesignator=J88
+Change Component Designator: OldDesignator=J90 NewDesignator=J89
+Change Component Designator: OldDesignator=J91 NewDesignator=J90
+Change Component Designator: OldDesignator=J92 NewDesignator=J91
+Change Component Designator: OldDesignator=J93 NewDesignator=J92
+Change Component Designator: OldDesignator=J94 NewDesignator=J93
+Change Component Designator: OldDesignator=J95 NewDesignator=J94
+Change Component Designator: OldDesignator=J96 NewDesignator=J95
+Change Component Designator: OldDesignator=J97 NewDesignator=J96
+Added Component: Designator=C29(0402-0.55mm)
+Added Component: Designator=C30(0402-0.55mm)
+Added Component: Designator=C31(0402-0.55mm)
+Added Component: Designator=C32(0402-0.55mm)
+Added Component: Designator=C46(C0603-0.8MM)
+Added Component: Designator=J26(MCX5.08-H5)
+Added Component: Designator=J29(MCX5.08-H5)
+Added Component: Designator=J54(0402-DNP)
+Added Component: Designator=J55(MCX5.08-H5)
+Added Component: Designator=J56(0805-DNP)
+Added Component: Designator=J57(0402-DNP)
+Added Component: Designator=J59(0402-DNP)
+Added Component: Designator=J60(0805-DNP)
+Added Component: Designator=J62(0805-DNP)
+Added Component: Designator=J63(0805-DNP)
+Added Component: Designator=J64(0805-DNP)
+Added Component: Designator=J68(0805-DNP)
+Added Component: Designator=J72(0805-DNP)
+Added Component: Designator=R16(0402-0.55mm)
+Added Component: Designator=R30(0805-0.45MM)
+Added Component: Designator=R40(0805-0.45MM)
+Added Component: Designator=R41(0805-0.45MM)
+Added Component: Designator=R42(0805-0.45MM)
+Added Component: Designator=R43(0805-0.45MM)
+Added Component: Designator=U6(QFN-24-(4x4))
+Added Component: Designator=U11(TSSOP14)
+Added Pin To Net: NetName=NetC29_1 Pin=C29-1
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=NetC30_2 Pin=C31-2
+Added Pin To Net: NetName=NetC32_1 Pin=C32-1
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=20V Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=20V Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=NetJ26_1 Pin=J26-1
+Added Pin To Net: NetName=GND Pin=J26-2
+Added Pin To Net: NetName=GND Pin=J26-3
+Added Pin To Net: NetName=GND Pin=J26-4
+Added Pin To Net: NetName=GND Pin=J26-5
+Added Pin To Net: NetName=NetJ29_1 Pin=J29-1
+Added Pin To Net: NetName=GND Pin=J29-2
+Added Pin To Net: NetName=GND Pin=J29-3
+Added Pin To Net: NetName=GND Pin=J29-4
+Added Pin To Net: NetName=GND Pin=J29-5
+Added Pin To Net: NetName=NetC46_2 Pin=J54-2
+Added Pin To Net: NetName=PLL_CHG_PUMP Pin=J55-1
+Added Pin To Net: NetName=GND Pin=J55-2
+Added Pin To Net: NetName=GND Pin=J55-3
+Added Pin To Net: NetName=GND Pin=J55-4
+Added Pin To Net: NetName=GND Pin=J55-5
+Added Pin To Net: NetName=GND Pin=J56-2
+Added Pin To Net: NetName=GND Pin=J57-2
+Added Pin To Net: NetName=GND Pin=J59-2
+Added Pin To Net: NetName=NetJ61_1 Pin=J61-1
+Added Pin To Net: NetName=NetJ61_1 Pin=J62-1
+Added Pin To Net: NetName=GND Pin=J63-2
+Added Pin To Net: NetName=NetJ61_1 Pin=J68-2
+Added Pin To Net: NetName=GND Pin=J72-2
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetC29_1 Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=LOOP_FILTER_OUT Pin=R30-2
+Added Pin To Net: NetName=NetC46_2 Pin=R40-1
+Added Pin To Net: NetName=LOOP_FILTER_OUT Pin=R40-2
+Added Pin To Net: NetName=PLL_CHG_PUMP Pin=R42-1
+Added Pin To Net: NetName=OP_OUT Pin=R43-2
+Added Pin To Net: NetName=GND Pin=U6-0
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=VTUNE Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U6-6
+Added Pin To Net: NetName=GND Pin=U6-7
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U6-9
+Added Pin To Net: NetName=GND Pin=U6-10
+Added Pin To Net: NetName=GND Pin=U6-11
+Added Pin To Net: NetName=NetC30_2 Pin=U6-12
+Added Pin To Net: NetName=GND Pin=U6-13
+Added Pin To Net: NetName=GND Pin=U6-14
+Added Pin To Net: NetName=NetR17_1 Pin=U6-15
+Added Pin To Net: NetName=GND Pin=U6-16
+Added Pin To Net: NetName=GND Pin=U6-17
+Added Pin To Net: NetName=GND Pin=U6-18
+Added Pin To Net: NetName=GND Pin=U6-19
+Added Pin To Net: NetName=GND Pin=U6-20
+Added Pin To Net: NetName=GND Pin=U6-21
+Added Pin To Net: NetName=GND Pin=U6-22
+Added Pin To Net: NetName=GND Pin=U6-23
+Added Pin To Net: NetName=GND Pin=U6-24
+Added Pin To Net: NetName=NetJ61_1 Pin=U11-1
+Added Pin To Net: NetName=5V-FILTER Pin=U11-3
+Added Pin To Net: NetName=FILT-IN Pin=U11-4
+Added Pin To Net: NetName=NetJ66_2 Pin=U11-6
+Added Pin To Net: NetName=NetJ66_1 Pin=U11-7
+Added Pin To Net: NetName=NetJ84_1 Pin=U11-8
+Added Pin To Net: NetName=NetJ84_2 Pin=U11-9
+Added Pin To Net: NetName=GND Pin=U11-11
+Added Pin To Net: NetName=NetJ78_2 Pin=U11-13
+Added Pin To Net: NetName=NetJ78_1 Pin=U11-14
+Change Net Name : Old Net Name=NetC46_2 New Net Name=NetC47_2
+Change Net Name : Old Net Name=NetJ66_1 New Net Name=NetJ65_1
+Change Net Name : Old Net Name=NetJ66_2 New Net Name=NetJ65_2
+Change Net Name : Old Net Name=NetJ67_2 New Net Name=NetJ66_2
+Change Net Name : Old Net Name=NetJ71_2 New Net Name=NetJ70_2
+Change Net Name : Old Net Name=NetJ72_2 New Net Name=NetJ71_2
+Change Net Name : Old Net Name=NetJ78_1 New Net Name=NetJ77_1
+Change Net Name : Old Net Name=NetJ78_2 New Net Name=NetJ77_2
+Change Net Name : Old Net Name=NetJ79_2 New Net Name=NetJ78_2
+Change Net Name : Old Net Name=NetJ82_2 New Net Name=NetJ81_2
+Change Net Name : Old Net Name=NetJ83_2 New Net Name=NetJ82_2
+Change Net Name : Old Net Name=NetJ84_1 New Net Name=NetJ83_1
+Change Net Name : Old Net Name=NetJ84_2 New Net Name=NetJ83_2
+Change Net Name : Old Net Name=NetJ89_2 New Net Name=NetJ88_2
+Change Net Name : Old Net Name=NetJ92_2 New Net Name=NetJ91_2
+Change Net Name : Old Net Name=NetJ93_2 New Net Name=NetJ92_2
+Added Pin To Net: NetName=NetC46_2 Pin=C46-2
+Added Pin To Net: NetName=NetC46_2 Pin=J54-1
+Added Pin To Net: NetName=NetC46_2 Pin=J56-1
+Added Pin To Net: NetName=NetC46_2 Pin=J57-1
+Added Pin To Net: NetName=NetC46_2 Pin=R38-2
+Added Pin To Net: NetName=NetC46_2 Pin=R39-1
+Added Pin To Net: NetName=NetC46_2 Pin=R41-2
+Added Net: Name=NetC46_2
+Added Pin To Net: NetName=NetC48_2 Pin=C48-2
+Added Pin To Net: NetName=NetC48_2 Pin=J59-1
+Added Pin To Net: NetName=NetC48_2 Pin=R41-1
+Added Net: Name=NetC48_2
+Added Pin To Net: NetName=NetJ60_1 Pin=J60-1
+Added Pin To Net: NetName=NetJ60_1 Pin=J61-2
+Added Net: Name=NetJ60_1
+Added Pin To Net: NetName=NetJ60_2 Pin=J60-2
+Added Pin To Net: NetName=NetJ60_2 Pin=J62-2
+Added Pin To Net: NetName=NetJ60_2 Pin=J64-2
+Added Pin To Net: NetName=NetJ60_2 Pin=U11-2
+Added Net: Name=NetJ60_2
+Added Pin To Net: NetName=NetJ63_1 Pin=J63-1
+Added Pin To Net: NetName=NetJ63_1 Pin=J64-1
+Added Pin To Net: NetName=NetJ63_1 Pin=R42-2
+Added Net: Name=NetJ63_1
+Added Pin To Net: NetName=NetJ68_1 Pin=J68-1
+Added Pin To Net: NetName=NetJ68_1 Pin=J72-1
+Added Pin To Net: NetName=NetJ68_1 Pin=R43-1
+Added Net: Name=NetJ68_1
+Added Pin To Net: NetName=NetJ71_1 Pin=J71-1
+Added Pin To Net: NetName=NetJ71_1 Pin=J74-1
+Added Pin To Net: NetName=NetJ71_1 Pin=U11-5
+Added Net: Name=NetJ71_1
+Added Pin To Net: NetName=NetJ82_1 Pin=J82-1
+Added Pin To Net: NetName=NetJ82_1 Pin=J85-1
+Added Pin To Net: NetName=NetJ82_1 Pin=U11-12
+Added Net: Name=NetJ82_1
+Added Pin To Net: NetName=NetJ92_1 Pin=J92-1
+Added Pin To Net: NetName=NetJ92_1 Pin=J94-1
+Added Pin To Net: NetName=NetJ92_1 Pin=U11-10
+Added Net: Name=NetJ92_1
+Added Member To Class: ClassName=OpAmp Member=Component C45 0.1µF
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component C49 2.2µF
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component C50 10µF
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component C51 2.2µF
+Added Member To Class: ClassName=OpAmp Member=Component R30 100k

@@ -1,0 +1,204 @@
+Removed Pin From Net: NetName=NetC29_1 Pin=C29-1
+Removed Pin From Net: NetName=NetC29_2 Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=NetC30_2 Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=NetC30_2 Pin=C31-2
+Removed Pin From Net: NetName=NetC32_1 Pin=C32-1
+Removed Pin From Net: NetName=NetC32_2 Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=C46-1
+Removed Pin From Net: NetName=NetC46_2 Pin=C46-2
+Removed Pin From Net: NetName=RF1OUT Pin=J26-1
+Removed Pin From Net: NetName=RF2OUT Pin=J29-1
+Removed Pin From Net: NetName=NetC46_2 Pin=J54-1
+Removed Pin From Net: NetName=NetC47_2 Pin=J54-2
+Removed Pin From Net: NetName=NetC46_2 Pin=J56-1
+Removed Pin From Net: NetName=GND Pin=J56-2
+Removed Pin From Net: NetName=NetC46_2 Pin=J57-1
+Removed Pin From Net: NetName=GND Pin=J57-2
+Removed Pin From Net: NetName=NetC48_2 Pin=J59-1
+Removed Pin From Net: NetName=GND Pin=J59-2
+Removed Pin From Net: NetName=NetJ60_1 Pin=J60-1
+Removed Pin From Net: NetName=NetJ60_2 Pin=J60-2
+Removed Pin From Net: NetName=NetJ61_1 Pin=J62-1
+Removed Pin From Net: NetName=NetJ60_2 Pin=J62-2
+Removed Pin From Net: NetName=NetJ63_1 Pin=J63-1
+Removed Pin From Net: NetName=GND Pin=J63-2
+Removed Pin From Net: NetName=NetJ63_1 Pin=J64-1
+Removed Pin From Net: NetName=NetJ60_2 Pin=J64-2
+Removed Pin From Net: NetName=NetJ68_1 Pin=J68-1
+Removed Pin From Net: NetName=NetJ61_1 Pin=J68-2
+Removed Pin From Net: NetName=NetJ68_1 Pin=J72-1
+Removed Pin From Net: NetName=GND Pin=J72-2
+Removed Pin From Net: NetName=NetR16_1 Pin=R16-1
+Removed Pin From Net: NetName=NetC29_1 Pin=R16-2
+Removed Pin From Net: NetName=GND Pin=R30-1
+Removed Pin From Net: NetName=LOOP_FILTER_OUT Pin=R30-2
+Removed Pin From Net: NetName=NetC47_2 Pin=R40-1
+Removed Pin From Net: NetName=LOOP_FILTER_OUT Pin=R40-2
+Removed Pin From Net: NetName=NetC48_2 Pin=R41-1
+Removed Pin From Net: NetName=NetC46_2 Pin=R41-2
+Removed Pin From Net: NetName=PLL_CHG_PUMP Pin=R42-1
+Removed Pin From Net: NetName=NetJ63_1 Pin=R42-2
+Removed Pin From Net: NetName=NetJ68_1 Pin=R43-1
+Removed Pin From Net: NetName=OP_OUT Pin=R43-2
+Removed Pin From Net: NetName=GND Pin=U6-0
+Removed Pin From Net: NetName=GND Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U6-2
+Removed Pin From Net: NetName=GND Pin=U6-3
+Removed Pin From Net: NetName=VTUNE Pin=U6-4
+Removed Pin From Net: NetName=GND Pin=U6-5
+Removed Pin From Net: NetName=GND Pin=U6-6
+Removed Pin From Net: NetName=GND Pin=U6-7
+Removed Pin From Net: NetName=GND Pin=U6-8
+Removed Pin From Net: NetName=GND Pin=U6-9
+Removed Pin From Net: NetName=GND Pin=U6-10
+Removed Pin From Net: NetName=GND Pin=U6-11
+Removed Pin From Net: NetName=NetC30_2 Pin=U6-12
+Removed Pin From Net: NetName=GND Pin=U6-13
+Removed Pin From Net: NetName=GND Pin=U6-14
+Removed Pin From Net: NetName=NetR17_1 Pin=U6-15
+Removed Pin From Net: NetName=GND Pin=U6-16
+Removed Pin From Net: NetName=GND Pin=U6-17
+Removed Pin From Net: NetName=GND Pin=U6-18
+Removed Pin From Net: NetName=GND Pin=U6-19
+Removed Pin From Net: NetName=GND Pin=U6-20
+Removed Pin From Net: NetName=GND Pin=U6-21
+Removed Pin From Net: NetName=GND Pin=U6-22
+Removed Pin From Net: NetName=GND Pin=U6-23
+Removed Pin From Net: NetName=GND Pin=U6-24
+Removed Pin From Net: NetName=NetJ61_1 Pin=U11-1
+Removed Pin From Net: NetName=NetJ60_2 Pin=U11-2
+Removed Pin From Net: NetName=5V-FILTER Pin=U11-3
+Removed Pin From Net: NetName=FILT-IN Pin=U11-4
+Removed Pin From Net: NetName=NetJ71_1 Pin=U11-5
+Removed Pin From Net: NetName=NetJ65_2 Pin=U11-6
+Removed Pin From Net: NetName=NetJ65_1 Pin=U11-7
+Removed Pin From Net: NetName=NetJ83_1 Pin=U11-8
+Removed Pin From Net: NetName=NetJ83_2 Pin=U11-9
+Removed Pin From Net: NetName=NetJ92_1 Pin=U11-10
+Removed Pin From Net: NetName=GND Pin=U11-11
+Removed Pin From Net: NetName=NetJ82_1 Pin=U11-12
+Removed Pin From Net: NetName=NetJ77_2 Pin=U11-13
+Removed Pin From Net: NetName=NetJ77_1 Pin=U11-14
+Added Component: Designator=C29(0402-0.55mm)
+Added Component: Designator=C30(0402-0.55mm)
+Added Component: Designator=C31(0402-0.55mm)
+Added Component: Designator=C32(0402-0.55mm)
+Added Component: Designator=C46(C0603-0.8MM)
+Added Component: Designator=J54(0402-DNP)
+Added Component: Designator=J56(0805-DNP)
+Added Component: Designator=J57(0402-DNP)
+Added Component: Designator=J59(0402-DNP)
+Added Component: Designator=J60(0805-DNP)
+Added Component: Designator=J62(0805-DNP)
+Added Component: Designator=J63(0805-DNP)
+Added Component: Designator=J64(0805-DNP)
+Added Component: Designator=J68(0805-DNP)
+Added Component: Designator=J72(0805-DNP)
+Added Component: Designator=LPF1(LPF-0603-0.8mm)
+Added Component: Designator=LPF2(LPF-0603-0.8mm)
+Added Component: Designator=R16(0402-0.55mm)
+Added Component: Designator=R30(0805-0.45MM)
+Added Component: Designator=R40(0805-0.45MM)
+Added Component: Designator=R41(0805-0.45MM)
+Added Component: Designator=R42(0805-0.45MM)
+Added Component: Designator=R43(0805-0.45MM)
+Added Component: Designator=U6(QFN-24-(4x4))
+Added Component: Designator=U11(TSSOP14)
+Added Pin To Net: NetName=NetC29_1 Pin=C29-1
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=NetC30_2 Pin=C31-2
+Added Pin To Net: NetName=NetC32_1 Pin=C32-1
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=NetC46_2 Pin=C46-2
+Added Pin To Net: NetName=NetC46_2 Pin=J54-1
+Added Pin To Net: NetName=NetC47_2 Pin=J54-2
+Added Pin To Net: NetName=NetC46_2 Pin=J56-1
+Added Pin To Net: NetName=GND Pin=J56-2
+Added Pin To Net: NetName=NetC46_2 Pin=J57-1
+Added Pin To Net: NetName=GND Pin=J57-2
+Added Pin To Net: NetName=NetC48_2 Pin=J59-1
+Added Pin To Net: NetName=GND Pin=J59-2
+Added Pin To Net: NetName=NetJ60_1 Pin=J60-1
+Added Pin To Net: NetName=NetJ60_2 Pin=J60-2
+Added Pin To Net: NetName=NetJ61_1 Pin=J62-1
+Added Pin To Net: NetName=NetJ60_2 Pin=J62-2
+Added Pin To Net: NetName=NetJ63_1 Pin=J63-1
+Added Pin To Net: NetName=GND Pin=J63-2
+Added Pin To Net: NetName=NetJ63_1 Pin=J64-1
+Added Pin To Net: NetName=NetJ60_2 Pin=J64-2
+Added Pin To Net: NetName=NetJ68_1 Pin=J68-1
+Added Pin To Net: NetName=NetJ61_1 Pin=J68-2
+Added Pin To Net: NetName=NetJ68_1 Pin=J72-1
+Added Pin To Net: NetName=GND Pin=J72-2
+Added Pin To Net: NetName=RF1OUT Pin=LPF1-1
+Added Pin To Net: NetName=GND Pin=LPF1-2
+Added Pin To Net: NetName=GND Pin=LPF1-4
+Added Pin To Net: NetName=RF2OUT Pin=LPF2-1
+Added Pin To Net: NetName=GND Pin=LPF2-2
+Added Pin To Net: NetName=GND Pin=LPF2-4
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetC29_1 Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=LOOP_FILTER_OUT Pin=R30-2
+Added Pin To Net: NetName=NetC47_2 Pin=R40-1
+Added Pin To Net: NetName=LOOP_FILTER_OUT Pin=R40-2
+Added Pin To Net: NetName=NetC48_2 Pin=R41-1
+Added Pin To Net: NetName=NetC46_2 Pin=R41-2
+Added Pin To Net: NetName=PLL_CHG_PUMP Pin=R42-1
+Added Pin To Net: NetName=NetJ63_1 Pin=R42-2
+Added Pin To Net: NetName=NetJ68_1 Pin=R43-1
+Added Pin To Net: NetName=OP_OUT Pin=R43-2
+Added Pin To Net: NetName=GND Pin=U6-0
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=VTUNE Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U6-6
+Added Pin To Net: NetName=GND Pin=U6-7
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U6-9
+Added Pin To Net: NetName=GND Pin=U6-10
+Added Pin To Net: NetName=GND Pin=U6-11
+Added Pin To Net: NetName=NetC30_2 Pin=U6-12
+Added Pin To Net: NetName=GND Pin=U6-13
+Added Pin To Net: NetName=GND Pin=U6-14
+Added Pin To Net: NetName=NetR17_1 Pin=U6-15
+Added Pin To Net: NetName=GND Pin=U6-16
+Added Pin To Net: NetName=GND Pin=U6-17
+Added Pin To Net: NetName=GND Pin=U6-18
+Added Pin To Net: NetName=GND Pin=U6-19
+Added Pin To Net: NetName=GND Pin=U6-20
+Added Pin To Net: NetName=GND Pin=U6-21
+Added Pin To Net: NetName=GND Pin=U6-22
+Added Pin To Net: NetName=GND Pin=U6-23
+Added Pin To Net: NetName=GND Pin=U6-24
+Added Pin To Net: NetName=NetJ61_1 Pin=U11-1
+Added Pin To Net: NetName=NetJ60_2 Pin=U11-2
+Added Pin To Net: NetName=5V-FILTER Pin=U11-3
+Added Pin To Net: NetName=FILT-IN Pin=U11-4
+Added Pin To Net: NetName=NetJ71_1 Pin=U11-5
+Added Pin To Net: NetName=NetJ65_2 Pin=U11-6
+Added Pin To Net: NetName=NetJ65_1 Pin=U11-7
+Added Pin To Net: NetName=NetJ83_1 Pin=U11-8
+Added Pin To Net: NetName=NetJ83_2 Pin=U11-9
+Added Pin To Net: NetName=NetJ92_1 Pin=U11-10
+Added Pin To Net: NetName=GND Pin=U11-11
+Added Pin To Net: NetName=NetJ82_1 Pin=U11-12
+Added Pin To Net: NetName=NetJ77_2 Pin=U11-13
+Added Pin To Net: NetName=NetJ77_1 Pin=U11-14
+Added Pin To Net: NetName=NetJ26_1 Pin=J26-1
+Added Pin To Net: NetName=NetJ26_1 Pin=LPF1-3
+Added Net: Name=NetJ26_1
+Added Pin To Net: NetName=NetJ29_1 Pin=J29-1
+Added Pin To Net: NetName=NetJ29_1 Pin=LPF2-3
+Added Net: Name=NetJ29_1
+Added Member To Class: ClassName=VCO and Buffer Member=Component LPF1 LFCW-1062+
+Added Member To Class: ClassName=VCO and Buffer Member=Component LPF2 LFCW-1062+
+Added Member To Class: ClassName=OpAmp Member=Component R30 100k
