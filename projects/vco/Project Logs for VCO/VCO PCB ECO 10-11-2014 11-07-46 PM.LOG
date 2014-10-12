@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=RF1 Pin=J14-2
+Removed Pin From Net: NetName=RF1 Pin=J15-2
+Removed Pin From Net: NetName=RF2 Pin=J20-2
+Removed Pin From Net: NetName=RF2 Pin=J23-2
+Removed Member From Class: ClassName=VCO and Buffer Member=J14
+Removed Member From Class: ClassName=VCO and Buffer Member=J15
+Removed Member From Class: ClassName=VCO and Buffer Member=J20
+Removed Member From Class: ClassName=VCO and Buffer Member=J23
+Added Pin To Net: NetName=RF1 Pin=C29-2
+Added Pin To Net: NetName=RF2 Pin=C32-2
+Added Pin To Net: NetName=RF1 Pin=J16-1
+Added Pin To Net: NetName=RF2 Pin=J24-1

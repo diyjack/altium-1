@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=J26-2
+Removed Pin From Net: NetName=GND Pin=J26-3
+Removed Pin From Net: NetName=GND Pin=J26-4
+Removed Pin From Net: NetName=GND Pin=J26-5
+Removed Pin From Net: NetName=GND Pin=J29-2
+Removed Pin From Net: NetName=GND Pin=J29-3
+Removed Pin From Net: NetName=GND Pin=J29-4
+Removed Pin From Net: NetName=GND Pin=J29-5
+Removed Pin From Net: NetName=PLL_CHG_PUMP Pin=J55-1
+Removed Pin From Net: NetName=GND Pin=J55-2
+Removed Pin From Net: NetName=GND Pin=J55-3
+Removed Pin From Net: NetName=GND Pin=J55-4
+Removed Pin From Net: NetName=GND Pin=J55-5
+Removed Member From Class: ClassName=VCO and Buffer Member=J26
+Removed Member From Class: ClassName=VCO and Buffer Member=J29
+Removed Member From Class: ClassName=Active/Passive PLL Filters Member=J55
+Removed Member From Class: ClassName=VCO and Buffer Member=U5

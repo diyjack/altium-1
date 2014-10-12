@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=RF1OUT Pin=J27-1
+Removed Pin From Net: NetName=RF1OUT Pin=J28-1
+Removed Pin From Net: NetName=RF2OUT Pin=J32-1
+Removed Pin From Net: NetName=RF2OUT Pin=J33-1
+Removed Member From Class: ClassName=VCO and Buffer Member=C25
+Removed Member From Class: ClassName=VCO and Buffer Member=C26
+Removed Member From Class: ClassName=VCO and Buffer Member=C27
+Removed Member From Class: ClassName=VCO and Buffer Member=C28
+Removed Member From Class: ClassName=Active/Passive PLL Filters Member=C44
+Removed Member From Class: ClassName=Active/Passive PLL Filters Member=J23
+Removed Member From Class: ClassName=Active/Passive PLL Filters Member=J24
+Removed Member From Class: ClassName=Active/Passive PLL Filters Member=J25
+Removed Member From Class: ClassName=Active/Passive PLL Filters Member=J27
+Removed Member From Class: ClassName=Active/Passive PLL Filters Member=J28
+Removed Member From Class: ClassName=Active/Passive PLL Filters Member=J30
+Removed Member From Class: ClassName=Active/Passive PLL Filters Member=J31
+Removed Member From Class: ClassName=Active/Passive PLL Filters Member=J32
+Removed Member From Class: ClassName=Active/Passive PLL Filters Member=J33
+Removed Member From Class: ClassName=Active/Passive PLL Filters Member=J34
+Removed Member From Class: ClassName=VCO and Buffer Member=R15
+Removed Member From Class: ClassName=Active/Passive PLL Filters Member=R34
+Removed Member From Class: ClassName=Active/Passive PLL Filters Member=R35
+Removed Member From Class: ClassName=Active/Passive PLL Filters Member=R36
+Removed Member From Class: ClassName=Active/Passive PLL Filters Member=R37
+Removed Member From Class: ClassName=VCO and Buffer Member=U5
+Removed Member From Class: ClassName=Active/Passive PLL Filters Member=U10
+Change Component DesignItemId : Designator=C35 Old DesignItemId=EM-CAP-00083 New DesignItemId=EE-CAP-00015
+Change Component DesignItemId : Designator=C38 Old DesignItemId=EM-CAP-00083 New DesignItemId=EE-CAP-00015
+Change Component Footprint: Designator=C35 Old Footprint=0603-0.8MM New Footprint=0402-0.55mm
+Change Component Footprint: Designator=C38 Old Footprint=0603-0.8MM New Footprint=0402-0.55mm
+Added Pin To Net: NetName=RF1OUT Pin=C35-2
+Added Pin To Net: NetName=RF2OUT Pin=C38-2
+Added Pin To Net: NetName=RF1OUT Pin=J30-1
+Added Pin To Net: NetName=RF2OUT Pin=J34-1
+Added Member To Class: ClassName=VCO and Buffer Member=Component C29 390pF
+Added Member To Class: ClassName=VCO and Buffer Member=Component C30 10µF
+Added Member To Class: ClassName=VCO and Buffer Member=Component C31 10µF
+Added Member To Class: ClassName=VCO and Buffer Member=Component C32 390pF
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component C46 0.082µF
+Added Member To Class: ClassName=VCO and Buffer Member=Component J26 CON-SMA
+Added Member To Class: ClassName=VCO and Buffer Member=Component J29 CON-SMA
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component J54 GEN-PAD
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component J55 CON-SMA
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component J56 GEN-PAD
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component J57 GEN-PAD
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component J59 GEN-PAD
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component J60 GEN-PAD
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component J62 GEN-PAD
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component J63 GEN-PAD
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component J64 GEN-PAD
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component J68 GEN-PAD
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component J72 GEN-PAD
+Added Member To Class: ClassName=VCO and Buffer Member=Component R16 16
+Added Member To Class: ClassName=OpAmp Member=Component R30 100k
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component R40 0
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component R41 300
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component R42 0
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component R43 0
+Added Member To Class: ClassName=VCO and Buffer Member=Component U6 RFVC1801
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component U11 OPA4188
+Added Room: Name=Active/Passive PLL Filters
+Added Room: Name=OpAmp
