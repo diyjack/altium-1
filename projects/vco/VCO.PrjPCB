@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for VCO
+OutputPath=
 LogFolderPath=
 
 [Preferences]
@@ -163,6 +163,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for VCO\Design Rule Check - VCO.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\*.*
 IncludeSubFolders=1
@@ -213,7 +217,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for VCO
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

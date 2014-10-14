@@ -1,0 +1,125 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Nathan\Documents\School\2014-2015\2014 Fall\EE5100\Repositories\altium\projects\vco\VCO.PcbDoc
+Date     : 10/13/2014
+Time     : 11:22:12 AM
+
+Processing Rule : Clearance Constraint (Gap=12mil) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
+                     Pad J26-1(4837.52mil,1905mil)  Top Layer
+   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
+                     Pad J26-2(4916.26mil,1767.205mil)  Top Layer
+   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
+                     Pad J26-3(4916.26mil,2042.795mil)  Top Layer
+   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
+                     Pad J29-1(4837.52mil,1585mil)  Top Layer
+   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
+                     Pad J29-2(4916.26mil,1447.205mil)  Top Layer
+   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
+                     Pad J29-3(4916.26mil,1722.795mil)  Top Layer
+   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
+                     Pad J55-1(4837.52mil,3355mil)  Top Layer
+   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
+                     Pad J55-2(4916.26mil,3217.205mil)  Top Layer
+   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
+                     Pad J55-3(4916.26mil,3492.795mil)  Top Layer
+   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
+                     Pad J26-4(4916.26mil,1767.205mil)  Bottom Layer
+   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
+                     Pad J26-5(4916.26mil,2042.795mil)  Bottom Layer
+   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
+                     Pad J29-4(4916.26mil,1447.205mil)  Bottom Layer
+   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
+                     Pad J29-5(4916.26mil,1722.795mil)  Bottom Layer
+   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
+                     Pad J55-4(4916.26mil,3217.205mil)  Bottom Layer
+   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
+                     Pad J55-5(4916.26mil,3492.795mil)  Bottom Layer
+Rule Violations :15
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=6mil) (Conductor Width=10mil) (Air Gap=6mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=10mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-2(4250mil,1510mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-2(4280mil,1510mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-2(4310mil,1510mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-2(4340mil,1510mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-2(4235mil,1480mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-2(4265mil,1480mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-2(4295mil,1480mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-2(4325mil,1480mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-2(4355mil,1480mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-2(4340mil,1447.598mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-2(4310mil,1450mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-2(4280mil,1450mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-2(4250mil,1450mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-4(4340mil,1660mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-4(4310mil,1660mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-4(4280mil,1660mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-4(4250mil,1660mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-4(4235mil,1690mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-4(4265mil,1690mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-4(4295mil,1690mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-4(4325mil,1690mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-4(4355mil,1690mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-4(4340mil,1720mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-4(4310mil,1720mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-4(4280mil,1720mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U8-4(4250mil,1720mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-2(4250mil,1830mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-2(4280mil,1830mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-2(4310mil,1830mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-2(4340mil,1830mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-2(4235mil,1800mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-2(4265mil,1800mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-2(4295mil,1800mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-2(4325mil,1800mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-2(4355mil,1800mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-2(4340mil,1767.598mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-2(4310mil,1770mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-2(4280mil,1770mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-2(4250mil,1770mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-4(4340mil,1980mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-4(4310mil,1980mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-4(4280mil,1980mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-4(4250mil,1980mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-4(4235mil,2010mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-4(4265mil,2010mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-4(4295mil,2010mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-4(4325mil,2010mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-4(4355mil,2010mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-4(4340mil,2040mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-4(4310mil,2040mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-4(4280mil,2040mil)  Multi-Layer
+   Violation between Hole Size Constraint (9.842mil < 10mil) : Pad U7-4(4250mil,2040mil)  Multi-Layer
+   Violation between Hole Size Constraint (8mil < 10mil) : Via (4615mil,1927.047mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (8mil < 10mil) : Via (4615mil,1882.953mil) Top Layer to Bottom Layer
+Rule Violations :54
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 69
+Time Elapsed        : 00:00:07
