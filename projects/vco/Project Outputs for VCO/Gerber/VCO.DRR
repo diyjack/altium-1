@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: VCO.PcbDoc   10/15/2014  2:34:40 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : VCO.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        8mil (0.2032mm)          Round          2                0.04 Inch (1.12 mm)
+T2        10mil (0.254mm)          Round          54               2.73 Inch (69.27 mm)
+T3        15mil (0.381mm)          Round          938              121.54 Inch (3087.20 mm)
+T4        35mil (0.889mm)          Round          2                0.10 Inch (2.54 mm)
+T5        39mil (0.9906mm)         Round          43               18.54 Inch (470.87 mm)
+T6        45mil (1.143mm)          Round          9                3.09 Inch (78.50 mm)
+T7        50mil (1.27mm)           Round          1                0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            1049             146.04 Inch (3709.49 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
