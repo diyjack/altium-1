@@ -1,0 +1,124 @@
+Removed Pin From Net: NetName=5V-FILTER Pin=2V5 Filter-0
+Removed Pin From Net: NetName=5V-TS Pin=5V-TS-0
+Removed Pin From Net: NetName=5V-VCO Pin=5V-VCO-0
+Removed Pin From Net: NetName=NetC14_2 Pin=8V-0
+Removed Pin From Net: NetName=20V Pin=20V-0
+Removed Pin From Net: NetName=GND Pin=GND-0
+Removed Pin From Net: NetName=NetC29_1 Pin=J16-1
+Removed Pin From Net: NetName=RF1 Pin=J17-1
+Removed Pin From Net: NetName=NetC32_1 Pin=J24-1
+Removed Pin From Net: NetName=RF2 Pin=J25-1
+Removed Pin From Net: NetName=NetC35_1 Pin=J30-1
+Removed Pin From Net: NetName=RF1OUT Pin=J31-1
+Removed Pin From Net: NetName=NetC38_1 Pin=J34-1
+Removed Pin From Net: NetName=RF2OUT Pin=J35-1
+Removed Pin From Net: NetName=NetR36_1 Pin=OP-3V-0
+Removed Pin From Net: NetName=NetR34_1 Pin=OP-10V-0
+Removed Pin From Net: NetName=NetC29_1 Pin=R16-2
+Removed Pin From Net: NetName=NetC32_1 Pin=R18-2
+Removed Pin From Net: NetName=NetJ41_1 Pin=U9B+-0
+Removed Pin From Net: NetName=NetJ37_2 Pin=U9B--0
+Removed Pin From Net: NetName=NetJ40_2 Pin=U9B_OUT-0
+Removed Pin From Net: NetName=NetJ71_2 Pin=U11B+-0
+Removed Pin From Net: NetName=NetJ66_2 Pin=U11B--0
+Removed Pin From Net: NetName=NetJ70_2 Pin=U11B_OUT-0
+Removed Pin From Net: NetName=NetJ92_2 Pin=U11C+-0
+Removed Pin From Net: NetName=NetJ88_2 Pin=U11C--0
+Removed Pin From Net: NetName=NetJ91_2 Pin=U11C_OUT-0
+Removed Pin From Net: NetName=NetJ82_2 Pin=U11D+-0
+Removed Pin From Net: NetName=NetJ78_2 Pin=U11D--0
+Removed Pin From Net: NetName=NetJ81_2 Pin=U11D_OUT-0
+Removed Pin From Net: NetName=VIN Pin=VIN-0
+Removed Pin From Net: NetName=VTUNE Pin=VTUNE-0
+Removed Member From Class: ClassName=Voltage Regulators Member=GND
+Removed Member From Class: ClassName=VCO and Buffer Member=R16
+Removed Member From Class: ClassName=VCO and Buffer Member=R17
+Change Component DesignItemId : Designator=R18 Old DesignItemId=0402-0.55mm New DesignItemId=EE-RES-00003
+Change Component Footprint: Designator=R18 Old Footprint=0402-0.55mm New Footprint=0402-SPLIT-3-0.55mm
+Change Component Comment : Designator=R18 Old Comment=16 New Comment=16x3
+Added Component: Designator=TP1(TP-LOOP)
+Added Component: Designator=TP2(TP-LOOP)
+Added Component: Designator=TP3(TP-LOOP)
+Added Component: Designator=TP4(TP-LOOP)
+Added Component: Designator=TP5(TP-LOOP)
+Added Component: Designator=TP6(TP-LOOP)
+Added Component: Designator=TP7(TP-LOOP)
+Added Component: Designator=TP8(TP-LOOP)
+Added Component: Designator=TP9(TP-LOOP)
+Added Component: Designator=TP10(TP-LOOP)
+Added Component: Designator=TP11(TP-LOOP)
+Added Component: Designator=TP12(TP-LOOP)
+Added Component: Designator=TP13(TP-LOOP)
+Added Component: Designator=TP14(TP-LOOP)
+Added Component: Designator=TP15(TP-LOOP)
+Added Component: Designator=TP16(TP-LOOP)
+Added Component: Designator=TP17(TP-LOOP)
+Added Component: Designator=TP18(TP-LOOP)
+Added Component: Designator=TP19(TP-LOOP)
+Added Component: Designator=TP20(TP-LOOP)
+Added Component: Designator=TP21(TP-LOOP)
+Added Component: Designator=TP22(TP-LOOP)
+Added Component: Designator=TP23(TP-LOOP)
+Added Component: Designator=TP24(TP-LOOP)
+Added Component: Designator=TP25(TP-LOOP)
+Added Component: Designator=TP26(TP-LOOP)
+Added Component: Designator=TP27(TP-LOOP)
+Added Pin To Net: NetName=NetC29_1 Pin=R18-2
+Added Pin To Net: NetName=NetC32_1 Pin=R18-3
+Added Pin To Net: NetName=VIN Pin=TP1-0
+Added Pin To Net: NetName=20V Pin=TP2-0
+Added Pin To Net: NetName=GND Pin=TP3-0
+Added Pin To Net: NetName=GND Pin=TP4-0
+Added Pin To Net: NetName=GND Pin=TP5-0
+Added Pin To Net: NetName=GND Pin=TP6-0
+Added Pin To Net: NetName=NetC14_2 Pin=TP7-0
+Added Pin To Net: NetName=5V-TS Pin=TP8-0
+Added Pin To Net: NetName=5V-VCO Pin=TP9-0
+Added Pin To Net: NetName=5V-FILTER Pin=TP10-0
+Added Pin To Net: NetName=NetJ37_2 Pin=TP11-0
+Added Pin To Net: NetName=NetJ40_2 Pin=TP12-0
+Added Pin To Net: NetName=NetJ41_1 Pin=TP13-0
+Added Pin To Net: NetName=VTUNE Pin=TP14-0
+Added Pin To Net: NetName=NetR34_1 Pin=TP15-0
+Added Pin To Net: NetName=NetR36_1 Pin=TP16-0
+Added Pin To Net: NetName=5V-FILTER Pin=TP17-0
+Added Pin To Net: NetName=NetJ66_2 Pin=TP18-0
+Added Pin To Net: NetName=NetJ70_2 Pin=TP19-0
+Added Pin To Net: NetName=NetJ71_2 Pin=TP20-0
+Added Pin To Net: NetName=GND Pin=TP21-0
+Added Pin To Net: NetName=NetJ78_2 Pin=TP22-0
+Added Pin To Net: NetName=NetJ81_2 Pin=TP23-0
+Added Pin To Net: NetName=NetJ82_2 Pin=TP24-0
+Added Pin To Net: NetName=NetJ88_2 Pin=TP25-0
+Added Pin To Net: NetName=NetJ91_2 Pin=TP26-0
+Added Pin To Net: NetName=NetJ92_2 Pin=TP27-0
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=U6-15
+Added Net: Name=NetR18_1
+Added Member To Class: ClassName=Voltage Regulators Member=Component TP1 TP-LOOP
+Added Member To Class: ClassName=Voltage Regulators Member=Component TP2 TP-LOOP
+Added Member To Class: ClassName=Voltage Regulators Member=Component TP3 TP-LOOP
+Added Member To Class: ClassName=Voltage Regulators Member=Component TP4 TP-LOOP
+Added Member To Class: ClassName=Voltage Regulators Member=Component TP5 TP-LOOP
+Added Member To Class: ClassName=Voltage Regulators Member=Component TP6 TP-LOOP
+Added Member To Class: ClassName=Voltage Regulators Member=Component TP7 TP-LOOP
+Added Member To Class: ClassName=Voltage Regulators Member=Component TP8 TP-LOOP
+Added Member To Class: ClassName=Voltage Regulators Member=Component TP9 TP-LOOP
+Added Member To Class: ClassName=Voltage Regulators Member=Component TP10 TP-LOOP
+Added Member To Class: ClassName=OpAmp Member=Component TP11 TP-LOOP
+Added Member To Class: ClassName=OpAmp Member=Component TP12 TP-LOOP
+Added Member To Class: ClassName=OpAmp Member=Component TP13 TP-LOOP
+Added Member To Class: ClassName=OpAmp Member=Component TP14 TP-LOOP
+Added Member To Class: ClassName=OpAmp Member=Component TP15 TP-LOOP
+Added Member To Class: ClassName=OpAmp Member=Component TP16 TP-LOOP
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component TP17 TP-LOOP
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component TP18 TP-LOOP
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component TP19 TP-LOOP
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component TP20 TP-LOOP
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component TP21 TP-LOOP
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component TP22 TP-LOOP
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component TP23 TP-LOOP
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component TP24 TP-LOOP
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component TP25 TP-LOOP
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component TP26 TP-LOOP
+Added Member To Class: ClassName=Active/Passive PLL Filters Member=Component TP27 TP-LOOP

@@ -1,7 +1,7 @@
 DRC Rules Export File for PCB: C:\Users\Nathan\Documents\School\2014-2015\2014 Fall\EE5100\Repositories\altium\projects\vco\VCO.PcbDoc
-RuleKind=Clearance|RuleName=Polygon Clerance|Scope=Board|Minimum=12.00
-RuleKind=Clearance|RuleName=General Clerance Rule|Scope=Board|Minimum=6.00
-RuleKind=Width|RuleName=TrackEnds|Scope=Board|Minimum=6.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=TrackEnds|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=General Clerance Rule|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Polygon Clerance|Scope=Board|Minimum=12.00

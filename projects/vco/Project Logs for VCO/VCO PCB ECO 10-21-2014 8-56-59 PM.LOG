@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=C29 Old DesignItemId=EE-CAP-00008 New DesignItemId=EE-CAP-00016
+Change Component DesignItemId : Designator=C32 Old DesignItemId=EE-CAP-00008 New DesignItemId=EE-CAP-00016
+Change Component DesignItemId : Designator=C35 Old DesignItemId=EE-CAP-00015 New DesignItemId=EE-CAP-00017
+Change Component DesignItemId : Designator=C38 Old DesignItemId=EE-CAP-00015 New DesignItemId=EE-CAP-00017
+Change Component Footprint: Designator=C29 Old Footprint=0402-0.55mm New Footprint=0402-RF-0.55mm
+Change Component Footprint: Designator=C32 Old Footprint=0402-0.55mm New Footprint=0402-RF-0.55mm
+Change Component Footprint: Designator=C35 Old Footprint=0402-0.55mm New Footprint=0402-RF-0.55mm
+Change Component Footprint: Designator=C38 Old Footprint=0402-0.55mm New Footprint=0402-RF-0.55mm
