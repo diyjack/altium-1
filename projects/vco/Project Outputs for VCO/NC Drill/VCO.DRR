@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: VCO.PcbDoc   10/17/2014  10:41:13 AM
+NCDrill File Report For: VCO.PcbDoc   10/22/2014  12:07:57 PM
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,14 +8,12 @@ EIA File   : VCO.DRL
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        8mil (0.2032mm)          Round          2                0.04 Inch (1.12 mm)
-T2        10mil (0.254mm)          Round          54               2.73 Inch (69.27 mm)
-T3        15mil (0.381mm)          Round          937              120.20 Inch (3053.04 mm)
-T4        35mil (0.889mm)          Round          2                0.10 Inch (2.54 mm)
-T5        39mil (0.9906mm)         Round          43               18.93 Inch (480.78 mm)
-T6        45mil (1.143mm)          Round          9                3.28 Inch (83.39 mm)
-T7        50mil (1.27mm)           Round          1                0.00 Inch (0.00 mm)
+T1        15mil (0.381mm)          Round          633              96.87 Inch (2460.43 mm)
+T2        35mil (0.889mm)          Round          2                0.10 Inch (2.54 mm)
+T3        39mil (0.9906mm)         Round          43               19.28 Inch (489.67 mm)
+T4        45mil (1.143mm)          Round          9                3.09 Inch (78.50 mm)
+T5        50mil (1.27mm)           Round          1                0.00 Inch (0.00 mm)
 ---------------------------------------------------------------------------
-Totals                                            1048             145.28 Inch (3690.14 mm)
+Totals                                            688              119.34 Inch (3031.13 mm)
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00
