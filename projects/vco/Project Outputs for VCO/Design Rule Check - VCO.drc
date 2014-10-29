@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Nathan\Documents\School\2014-2015\2014 Fall\EE5100\Repositories\altium\projects\vco\VCO.PcbDoc
 Date     : 10/22/2014
-Time     : 12:06:00 PM
+Time     : 12:44:15 PM
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -37,53 +37,11 @@ Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=10mil) (Al
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
-   Violation between Track (5000mil,1395mil)(5000mil,3140mil)  Keep-Out Layer and 
-                     Pad J26-3(4906.26mil,2192.795mil)  Top Layer
-   Violation between Track (5000mil,1395mil)(5000mil,3140mil)  Keep-Out Layer and 
-                     Pad J26-2(4906.26mil,1917.205mil)  Top Layer
-   Violation between Track (5000mil,1395mil)(5000mil,3140mil)  Keep-Out Layer and 
-                     Pad J26-1(4827.52mil,2055mil)  Top Layer
-   Violation between Track (5000mil,1395mil)(5000mil,3140mil)  Keep-Out Layer and 
-                     Pad J29-3(4906.26mil,1682.795mil)  Top Layer
-   Violation between Track (5000mil,1175mil)(5000mil,1395mil)  Keep-Out Layer and 
-                     Pad J29-2(4906.26mil,1407.205mil)  Top Layer
-   Violation between Track (5000mil,1395mil)(5000mil,3140mil)  Keep-Out Layer and 
-                     Pad J29-2(4906.26mil,1407.205mil)  Top Layer
-   Violation between Track (5000mil,1395mil)(5000mil,3140mil)  Keep-Out Layer and 
-                     Pad J29-1(4827.52mil,1545mil)  Top Layer
-   Violation between Track (5000mil,3130mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J55-3(4916.26mil,3492.795mil)  Top Layer
-   Violation between Track (5000mil,3130mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J55-2(4916.26mil,3217.205mil)  Top Layer
-   Violation between Track (5000mil,3130mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J55-1(4837.52mil,3355mil)  Top Layer
-   Violation between Track (5000mil,1395mil)(5000mil,3140mil)  Keep-Out Layer and 
-                     Pad J26-5(4906.26mil,2192.795mil)  Bottom Layer
-   Violation between Track (5000mil,1395mil)(5000mil,3140mil)  Keep-Out Layer and 
-                     Pad J26-4(4906.26mil,1917.205mil)  Bottom Layer
-   Violation between Track (5000mil,1395mil)(5000mil,3140mil)  Keep-Out Layer and 
-                     Pad J29-5(4906.26mil,1682.795mil)  Bottom Layer
-   Violation between Track (5000mil,1175mil)(5000mil,1395mil)  Keep-Out Layer and 
-                     Pad J29-4(4906.26mil,1407.205mil)  Bottom Layer
-   Violation between Track (5000mil,1395mil)(5000mil,3140mil)  Keep-Out Layer and 
-                     Pad J29-4(4906.26mil,1407.205mil)  Bottom Layer
-   Violation between Track (5000mil,3130mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J55-5(4916.26mil,3492.795mil)  Bottom Layer
-   Violation between Track (5000mil,3130mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J55-4(4916.26mil,3217.205mil)  Bottom Layer
-   Violation between Track (5000mil,1395mil)(5000mil,3140mil)  Keep-Out Layer and 
-                     Via (4975mil,2000mil) Top Layer to Bottom Layer
-   Violation between Track (5000mil,1395mil)(5000mil,3140mil)  Keep-Out Layer and 
-                     Via (4975mil,1490mil) Top Layer to Bottom Layer
-   Violation between Track (5000mil,1395mil)(5000mil,3140mil)  Keep-Out Layer and 
-                     Via (4975mil,2110mil) Top Layer to Bottom Layer
-   Violation between Track (5000mil,1395mil)(5000mil,3140mil)  Keep-Out Layer and 
-                     Via (4975mil,1600mil) Top Layer to Bottom Layer
-Rule Violations :21
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=12mil) (InPolygon),(All)
 Rule Violations :0
 
 
-Violations Detected : 24
-Time Elapsed        : 00:00:22
+Violations Detected : 3
+Time Elapsed        : 00:00:18

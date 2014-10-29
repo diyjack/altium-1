@@ -37,7 +37,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=op amp.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -53,7 +53,7 @@ GenerateClassCluster=0
 
 [Document2]
 DocumentPath=vco-brd.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -69,7 +69,7 @@ GenerateClassCluster=0
 
 [Document3]
 DocumentPath=vco.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -85,7 +85,7 @@ GenerateClassCluster=0
 
 [Document4]
 DocumentPath=supplies.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -117,7 +117,7 @@ GenerateClassCluster=0
 
 [Document6]
 DocumentPath=pll-filters.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
