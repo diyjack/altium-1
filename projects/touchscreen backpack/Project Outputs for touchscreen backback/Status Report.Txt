@@ -1,0 +1,12 @@
+Output: Copy of NC Drill Files
+Type  : NC Drill
+From  : PCB Document [backpack.PcbDoc]
+   Generated File[backpack.TXT]
+   Generated File[backpack.LDP]
+   Generated File[backpack.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:20:59 AM On 11/11/2014

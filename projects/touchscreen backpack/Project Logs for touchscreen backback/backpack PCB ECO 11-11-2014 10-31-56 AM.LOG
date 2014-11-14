@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=J? NewDesignator=*
+Change Component Designator: OldDesignator=U? NewDesignator=*
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Member To Class: ClassName=touchscreen Member=Component * MicroWire-Header

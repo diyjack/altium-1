@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=* NewDesignator=U1
+Change Component Designator: OldDesignator=* NewDesignator=U2
+Change Component Designator: OldDesignator=* NewDesignator=U3
+Change Component Designator: OldDesignator=+3.3V NewDesignator=3V3
+Change Component Designator: OldDesignator=+5V NewDesignator=5V
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Net Name : Old Net Name=Net*_0 New Net Name=NetP1_5
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetP1_4
+Change Net Name : Old Net Name=Net*_2 New Net Name=NetP1_3
+Change Net Name : Old Net Name=Net*_3 New Net Name=NetP1_2

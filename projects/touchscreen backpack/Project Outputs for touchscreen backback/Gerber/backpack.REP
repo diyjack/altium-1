@@ -1,0 +1,254 @@
+*************************************************************
+FileName = backpack.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : backpack.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : backpack.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : backpack.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : backpack.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : backpack.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D17
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : backpack.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : backpack.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : backpack.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : backpack.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : backpack.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D17
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : backpack.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : backpack.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D17
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : backpack.GM3
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : backpack.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : backpack.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D42
+    D43
+*************************************************************
+

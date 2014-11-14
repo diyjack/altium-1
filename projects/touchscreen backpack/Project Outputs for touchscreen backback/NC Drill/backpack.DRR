@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: backpack.PcbDoc   11/11/2014  11:20:59 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : backpack.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        28mil (0.7112mm)         Round          3                1.02 Inch (25.93 mm)
+T2        35mil (0.889mm)          Round          5                0.40 Inch (10.16 mm)
+T3        39mil (0.9906mm)         Round          9                8.58 Inch (217.88 mm)
+T4        45mil (1.143mm)          Round          45               5.10 Inch (129.54 mm)
+T5        157mil (3.9878mm)        Round          4                16.76 Inch (425.63 mm)
+---------------------------------------------------------------------------
+Totals                                            66               31.86 Inch (809.14 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
