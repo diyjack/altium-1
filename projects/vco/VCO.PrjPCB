@@ -37,7 +37,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=op amp.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -53,7 +53,7 @@ GenerateClassCluster=0
 
 [Document2]
 DocumentPath=vco-brd.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -69,7 +69,7 @@ GenerateClassCluster=0
 
 [Document3]
 DocumentPath=vco.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -85,7 +85,7 @@ GenerateClassCluster=0
 
 [Document4]
 DocumentPath=supplies.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -117,7 +117,7 @@ GenerateClassCluster=0
 
 [Document6]
 DocumentPath=pll-filters.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -165,6 +165,102 @@ GenerateClassCluster=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for VCO\Design Rule Check - VCO.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for VCO\NC Drill\VCO-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for VCO\NC Drill\VCO.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.G1
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.G2
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for VCO\NC Drill\VCO.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for VCO\Gerber\VCO.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for VCO\NC Drill\VCO.TXT
 DItemRevisionGUID=
 
 [SearchPath1]

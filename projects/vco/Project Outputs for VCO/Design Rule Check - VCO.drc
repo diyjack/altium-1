@@ -1,71 +1,47 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Nathan\Documents\School\2014-2015\2014 Fall\EE5100\Repositories\altium\projects\vco\VCO.PcbDoc
-Date     : 10/15/2014
-Time     : 11:32:06 AM
+Date     : 10/22/2014
+Time     : 12:44:15 PM
 
-Processing Rule : Clearance Constraint (Gap=12mil) (InPolygon),(All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
-   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J55-1(4837.52mil,3355mil)  Top Layer
-   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J55-2(4916.26mil,3217.205mil)  Top Layer
-   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J55-3(4916.26mil,3492.795mil)  Top Layer
-   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J26-1(4837.52mil,2055mil)  Top Layer
-   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J26-2(4916.26mil,1917.205mil)  Top Layer
-   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J26-3(4916.26mil,2192.795mil)  Top Layer
-   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J29-1(4837.52mil,1610mil)  Top Layer
-   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J29-2(4916.26mil,1472.205mil)  Top Layer
-   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J29-3(4916.26mil,1747.795mil)  Top Layer
-   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J55-4(4916.26mil,3217.205mil)  Bottom Layer
-   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J55-5(4916.26mil,3492.795mil)  Bottom Layer
-   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J26-4(4916.26mil,1917.205mil)  Bottom Layer
-   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J26-5(4916.26mil,2192.795mil)  Bottom Layer
-   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J29-4(4916.26mil,1472.205mil)  Bottom Layer
-   Violation between Track (5000mil,1175mil)(5000mil,4900mil)  Keep-Out Layer and 
-                     Pad J29-5(4916.26mil,1747.795mil)  Bottom Layer
-Rule Violations :15
-
-Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=10mil) (All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=10mil) (All)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=6mil) (Conductor Width=10mil) (Air Gap=6mil) (Entries=4) (InNet('GND'))
-Rule Violations :0
-
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-Rule Violations :0
-
-Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
-
-Processing Rule : Hole Size Constraint (Min=8mil) (Max=100mil) (All)
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=8mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Pad R18-0(3962mil,1830mil)  Top Layer and 
+                     Pad R18-0(3971mil,1825mil)  Top Layer
+   Violation between Pad R18-0(3971mil,1835mil)  Top Layer and 
+                     Pad R18-0(3971mil,1825mil)  Top Layer
+   Violation between Pad R18-0(3962mil,1830mil)  Top Layer and 
+                     Pad R18-0(3971mil,1835mil)  Top Layer
+Rule Violations :3
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=6mil) (Conductor Width=10mil) (Air Gap=6mil) (Entries=4) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=12mil) (InPolygon),(All)
 Rule Violations :0
 
 
-Violations Detected : 15
-Time Elapsed        : 00:00:25
+Violations Detected : 3
+Time Elapsed        : 00:00:18
